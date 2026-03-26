@@ -37,6 +37,6 @@
 
 ### 🤝 Connect With Me:
 <p>
-<a href="https://linkedin.com/in/your-id"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-<a href="https://instagram.com/your-id"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
+<a href="https://www.linkedin.com/in/m-d-creater-9273913ba/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+<a href="https://www.instagram.com/m.d.createrdigener/"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
 </p>
