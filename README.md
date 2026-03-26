@@ -3,6 +3,16 @@
 
 ---
 
+### 🛠️ Build Status & Badges
+<p align="left">
+  <img src="https://img.shields.io/badge/Build-Passing-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Maintained-Yes-green?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/MDcreator1?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/MDcreator1?style=for-the-badge" />
+</p>
+
+---
+
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **Full Authentication Systems using FastAPI**
 - 🧠 My main language is **Python**
@@ -18,6 +28,16 @@
 ### 🚀 Languages & Tools:
 <p>
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,mysql,js,html,css,react,nodejs,express,mongodb,git,github,vscode,postman" />
+</p>
+
+---
+
+### 🧩 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-Expert-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-Intermediate-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-Advanced-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML%20%26%20CSS-Advanced-orange?style=for-the-badge" />
 </p>
 
 ---
