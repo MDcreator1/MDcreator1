@@ -1,26 +1,26 @@
-<h1 align="center">Hi 👋, I'm Mandeep</h1>
-<h3 align="center">A passionate MERN Stack & Python Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Mandeep Dhakar</h1>
+<h3 align="center">Student • Freelancer • Web Developer • Learning Data Science & APIs</h3>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **Full-Stack Projects**
-- 🌱 I’m learning **Advanced Python, Django, and Data Science**
-- 👯 I want to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, Python, MongoDB**
-- 📫 How to reach me: **your-email@example.com**
-- ⚡ Fun fact: **I love building creative digital stuff!**
+## 👨‍💻 About Me
+- 🔭 I’m currently working on **Web Development & Data Science Projects**
+- 🌱 I’m learning **Data Science, REST APIs, Full-Stack Web Development**
+- 👯 I’m open to collaborate on **Freelancing Projects & Open Source**
+- 💬 Ask me about **Python, APIs, JavaScript, MERN, Machine Learning Basics**
+- 📫 Reach me at **m.d.createrdigener@gmail.com**
+- 🎯 Goal: Become a **Full-Stack Data Science Developer**
 
 ---
 
-### 🚀 Languages & Tools:
+## 🚀 Tech Stack & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,python,git,github,vscode,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,cpp" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats
 <p>
 <img height="160px" src="https://github-readme-stats.vercel.app/api?username=MDcreator1&show_icons=true&theme=tokyonight" />
 <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDcreator1&layout=compact&theme=tokyonight" />
@@ -28,13 +28,16 @@
 
 ---
 
-### 🔥 Contribution Streak:
-<img src="https://streak-stats.demolab.com/?user=MDcreator1&theme=tokyonight" />
+## 🔥 Contribution Streak
+<p>
+  <img src="https://streak-stats.demolab.com/?user=MDcreator1&theme=tokyonight" />
+</p>
 
 ---
 
-### 🤝 Connect With Me:
+## 🤝 Connect With Me
 <p>
-<a href="https://linkedin.com/in/your-id"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-<a href="https://instagram.com/your-id"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
+<a href="mailto:m.d.createrdigener@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" /></a>
 </p>
+
+---
